@@ -12,6 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
+  - [Linkedln]:www.linkedin.com/in/jermele-victoria-068543112
+
 
 
 <!--
